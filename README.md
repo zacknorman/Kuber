@@ -1,12 +1,15 @@
 ```
 
-██╗  ██╗██╗   ██╗██████╗ ███████╗██████╗ 
-██║ ██╔╝██║   ██║██╔══██╗██╔════╝██╔══██╗
-█████╔╝ ██║   ██║██████╔╝█████╗  ██████╔╝
-██╔═██╗ ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
-██║  ██╗╚██████╔╝██████╔╝███████╗██║  ██║
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝
-                                         
+   ▄█   ▄█▄ ███    █▄  ▀█████████▄     ▄████████    ▄████████ 
+  ███ ▄███▀ ███    ███   ███    ███   ███    ███   ███    ███ 
+  ███▐██▀   ███    ███   ███    ███   ███    █▀    ███    ███ 
+ ▄█████▀    ███    ███  ▄███▄▄▄██▀   ▄███▄▄▄      ▄███▄▄▄▄██▀ 
+▀▀█████▄    ███    ███ ▀▀███▀▀▀██▄  ▀▀███▀▀▀     ▀▀███▀▀▀▀▀   
+  ███▐██▄   ███    ███   ███    ██▄   ███    █▄  ▀███████████ 
+  ███ ▀███▄ ███    ███   ███    ███   ███    ███   ███    ███ 
+  ███   ▀█▀ ████████▀  ▄█████████▀    ██████████   ███    ███ 
+  ▀                                                ███    ███ 
+
 ```
 #### 
 A Weed Marketing Platform
@@ -39,23 +42,29 @@ Marijuana is set to be legalized on October 17th, 2018. When cannabis is legaliz
  and keep our roads safe. You will need to be 19 and older to buy, use, possess and grow recreational cannabis. This is the same as the minimum age for the sale of tobacco and alcohol in Ontario.
 You will only be able to use recreational cannabis in:
 
-a private residence, including the outdoor space of a home (for example, a porch or back yard)
-your unit or on your balcony, if you live in a multi-unit building like an apartment or condo, but that depends on your building’s rules or your lease agreement
-You will not be allowed to have any cannabis in your system (as detected by a federally approved oral fluid screening device) if you are driving a motor vehicle and:
+* a private residence, including the outdoor space of a home (for example, a porch or back yard)
+
+* your unit or on your balcony, if you live in a multi-unit building like an apartment or condo, but that depends on your building’s rules or your lease agreement
+
+* You will not be allowed to have any cannabis in your system (as detected by a federally approved oral fluid screening device) if you are driving a motor vehicle and:
 ```
 you are 21 or under
 have a G1, G2, M1 or M2 licence
 the vehicle you are driving requires an A-F driver’s licence or Commercial Vehicle Operator’s Registration (CVOR)
 you are driving a road-building machine
 ```
+
 #### Buying Cannabis
 When it’s legal, people 19 and over will be able to purchase cannabis online through the Ontario Cannabis Store. Online orders will be delivered safely and securely. Consumers will be required to verify their age to accept delivery and no packages will be left unattended at the door.
 
 You will be able to purchase up to 30 grams (about one ounce) of dried recreational cannabis at one time for personal use.
 
 As of October 17, 2018, the Ontario Cannabis Store website will be the only legal option for purchasing recreational cannabis. It will follow strict rules set by the federal government.
+
 ```
-The government will also introduce legislation that, if passed, would open up a tightly regulated private retail model for cannabis that would launch by April 1, 2019.  Private stores would be regulated, with the protection of youth and children as a top priority, and will help the province combat the illegal market.
+The government will also introduce legislation that, if passed, would open up a tightly regulated private retail model for cannabis that would launch by April 1, 2019.
+
+Private stores would be regulated, with the protection of youth and children as a top priority, and will help the province combat the illegal market.
 ```
 
 #### Medical Cannabis
