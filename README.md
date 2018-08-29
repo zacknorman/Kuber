@@ -28,10 +28,6 @@ Zachary Norman - Lead developer & Head of development
 
 Need More Programmers!
 
-#### Marketing and Strategy
-Lucas Seges - Marketing team
-
-Eric McIntyre - Marketing Team
 
 
 ## Basis and Problem Statement
