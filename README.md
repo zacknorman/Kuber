@@ -14,15 +14,20 @@ A Weed Marketing Platform
 ## Team
 #### Development
 Zachary Norman - Lead developer & Head of development
+
 ~~Smit Rao~~
+
 ...
+
 ...
+
 ...
 
 Need More Programmers!
 
 #### Marketing and Strategy
 Lucas Seges - Marketing team
+
 Eric McIntyre - Marketing Team
 
 
