@@ -1,5 +1,5 @@
 
-#New Project Name: 4247 \\ 420/4/7 \\ Four-Twenty-Four-Seven
+# New Project Name: 4247 \\ 420/4/7 \\ Four-Twenty-Four-Seven
 
 we'd surely run into legal issues with a name like 
 
