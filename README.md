@@ -1,5 +1,7 @@
 
-# New Project Name: 4247 \\ 420/4/7 \\ Four-Twenty-Four-Seven
+# Active Development Project
+## Please do not edit or destroy the code in this repository
+
 
 we'd surely run into legal issues with a name like 
 
@@ -15,12 +17,27 @@ we'd surely run into legal issues with a name like
   ▀                                                ███    ███ 
 
 ```
+
+So we're calling it
+```
+
+██╗  ██╗██████╗  ██████╗       ██╗  ██╗███████╗
+██║  ██║╚════██╗██╔═████╗      ██║  ██║╚════██║
+███████║ █████╔╝██║██╔██║█████╗███████║    ██╔╝
+╚════██║██╔═══╝ ████╔╝██║╚════╝╚════██║   ██╔╝ 
+     ██║███████╗╚██████╔╝           ██║   ██║  
+     ╚═╝╚══════╝ ╚═════╝            ╚═╝   ╚═╝  
+                                               
+
+```
+Four-Twenty-Four-Seven or 420/47
+
 #### 
 A Weed Marketing Platform
 
 ## Team
 #### Development
-Zachary Norman - Lead developer & Head of development
+Zachary Norman - Head of development to date / sole programmer
 
 ~~Smit Rao~~
 
@@ -30,9 +47,11 @@ Zachary Norman - Lead developer & Head of development
 
 ...
 
-Need More Programmers!
+Need More Programmers to port and help server development!
 
 
+The following is an active developer log, all code can be fround in it's respective folder. 
+The app is currently ~1/4 done as of Sept. 25, 2018
 
 ## Basis and Problem Statement / Research
 In This section, we will explore the basic information about cannabis leagalization in Ontario, then learn about the problem which Kuber sets to solve.
