@@ -1,5 +1,9 @@
-```
 
+#New Project Name: 4247 \\ 420/4/7 \\ Four-Twenty-Four-Seven
+
+we'd surely run into legal issues with a name like 
+
+```
    ▄█   ▄█▄ ███    █▄  ▀█████████▄     ▄████████    ▄████████ 
   ███ ▄███▀ ███    ███   ███    ███   ███    ███   ███    ███ 
   ███▐██▀   ███    ███   ███    ███   ███    █▀    ███    ███ 
@@ -30,7 +34,7 @@ Need More Programmers!
 
 
 
-## Basis and Problem Statement
+## Basis and Problem Statement / Research
 In This section, we will explore the basic information about cannabis leagalization in Ontario, then learn about the problem which Kuber sets to solve.
 
 #### Legalization Info
